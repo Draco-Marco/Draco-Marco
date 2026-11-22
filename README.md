@@ -1,4 +1,4 @@
-<img width="736" height="769" alt="7be621c14c4fc49717a2a9141fb8f470" src="https://github.com/user-attachments/assets/220a4bc3-4e2a-4369-9e5b-2080babc1ce4" />
+
 ## Mega wip 💢
 
 <!--
