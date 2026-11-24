@@ -1,5 +1,6 @@
 
 ## Mega wip 💢
+<img width="500" height="519" alt="image" src="https://github.com/user-attachments/assets/b8c1c075-6469-4137-844f-904ea3fef51c" />
 
 <!--
 **Draco-Marco/Draco-Marco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
