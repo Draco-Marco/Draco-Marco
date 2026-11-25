@@ -1,6 +1,7 @@
 
 ## Mega wip 💢
-![Uploading image.png…]()
+<img width="500" height="519" alt="image" src="https://github.com/user-attachments/assets/ad319a33-98d8-4fb2-993b-f38f72c3b322" />
+
 
 
 
